@@ -1,2 +1,1 @@
-# Museum.github.io
-Museum
+# Museum
